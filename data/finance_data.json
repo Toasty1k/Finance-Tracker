@@ -1,0 +1,9 @@
+{
+    "income": [
+        {
+            "amount": 1000.0,
+            "description": "payday"
+        }
+    ],
+    "expenses": []
+}

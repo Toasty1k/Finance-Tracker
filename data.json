@@ -1,0 +1,9 @@
+{
+    "budget": 1000.0,
+    "transactions": [
+        {
+            "description": "sdas",
+            "amount": 50.0
+        }
+    ]
+}

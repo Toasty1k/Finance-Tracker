@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 600.0,
+        "description": "hgahdjas",
+        "category": "food"
+    },
+    {
+        "amount": 350.0,
+        "description": "sadasdas",
+        "category": "food"
+    },
+    {
+        "amount": 49.0,
+        "description": "sadsa",
+        "category": "dasda"
+    },
+    {
+        "amount": 400.0,
+        "description": "asdasda",
+        "category": "asda"
+    },
+    {
+        "amount": 600.0,
+        "description": "asdasda",
+        "category": "asdas"
+    },
+    {
+        "amount": 70.0,
+        "description": "asdas",
+        "category": "asdas"
+    }
+]
