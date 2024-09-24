@@ -15,7 +15,8 @@ Interactive User Interface: All actions are available through a clean and intuit
 To run this project, you need to have Python installed on your machine. Follow these steps to set up the project:
 
 1. Clone the Repository: Open a terminal or command prompt, and run:
-    git clone https://github.com/yourusername/finance-tracker.git
+    git clone git clone https://github.com/Toasty1k/Finance-Tracker.git
+
 
 2. Navigate to the Project Directory:
    cd finance-tracker/FinanceTrackerScript
